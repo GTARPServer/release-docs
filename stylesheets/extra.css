@@ -1,0 +1,22 @@
+.md-header__button.md-logo img {
+    height:2.4rem;
+}
+
+.md-typeset .emojione, .md-typeset .gemoji, .md-typeset .twemoji {
+    vertical-align: middle;
+}
+
+[data-md-color-scheme="imaginerp"]{
+    --md-primary-fg-color: #b72d3f;
+    --md-secondary-fg-color: #34335a;
+    --md-primary-fg-color--light: #b72d3f;
+    --md-secondary-fg-color--light: #34335a;
+    --md-primary-fg-color--dark: #b72d3f;
+    --md-secondary-fg-color--dark: #34335a;
+}
+
+[data-md-color-scheme="slate"]{
+    --md-primary-fg-color: #b72d3f;
+    --md-hue: 210;
+    /*--md-default-bg-color: #000000;*/
+}
