@@ -6,11 +6,6 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://docs.imaginerp.org/serverinfo/</loc>
-         <lastmod>2024-08-28</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
          <loc>https://docs.imaginerp.org/Controls/keybinds/</loc>
          <lastmod>2024-08-28</lastmod>
          <changefreq>daily</changefreq>
@@ -21,12 +16,27 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://docs.imaginerp.org/Getting%20Started/Installing%20FiveM/</loc>
+         <loc>https://docs.imaginerp.org/Getting-Started/Installing%20FiveM/</loc>
+         <lastmod>2024-08-28</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://docs.imaginerp.org/Getting-Started/Minimum%20Requirements/</loc>
+         <lastmod>2024-08-28</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://docs.imaginerp.org/Getting-Started/serverinfo/</loc>
          <lastmod>2024-08-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.imaginerp.org/Test/TestDoc/</loc>
+         <lastmod>2024-08-28</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://docs.imaginerp.org/Troubleshooting/Client%20Issues%20Guide/</loc>
          <lastmod>2024-08-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
