@@ -20,3 +20,79 @@
     --md-hue: 210;
     --md-default-bg-color: #000000;
 }
+
+.announce-container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between; /* Adjusts the button position */
+    margin: 0 auto;
+    padding: 10px 20px; /* Adjust padding as needed */
+    gap: 10px;
+    color: #fff; /* Example text color */
+    height: 80px;
+}
+
+.announce-text-container {
+    display: flex;
+    align-items: center;
+    gap: 10px; /* Space between icon and text */
+}
+
+.md-banner__button {
+    padding-top: calc((80px - 24px)/2);
+}
+
+.announce-icon {
+    width: 24px;
+    height: 24px;
+}
+
+.announce-text {
+    font-size: calc(0.25vw + 16px); /* Responsive font size */
+    font-weight: bold;
+    margin: 0;
+    display: flex;
+    align-items: center;
+}
+
+.announce-button {
+    font-size: calc(0.25vw + 12px); /* Responsive font size */
+    padding: 10px 20px; /* Adjust padding for button */
+    margin-left: auto; /* Ensures button stays on the right */
+}
+
+@media (max-width: 600px) {
+    .announce-container {
+        flex-direction: column;
+        align-items: center;
+        height: 130px;
+        width: calc(100%+24px)
+    }
+
+    .md-banner__button {
+        padding-top: 0px;
+    }
+
+    .announce-text {
+        font-size: calc(1vw + 14px); /* Adjusted for smaller screens */
+    }
+
+    .announce-button {
+        font-size: calc(1vw + 10px); /* Adjusted for smaller screens */
+        margin-top: 10px; /* Space above button on small screens */
+        margin-left: auto;
+        margin-right: auto;
+        width: calc(100% + 24px);
+        text-align: center;
+    }
+}
+
+@media (max-width: 400px) {
+    .announce-text {
+        font-size: calc(1.35vw + 12px); /* Further adjusted for very small screens */
+    }
+
+    .announce-button {
+        font-size: calc(1vw + 8px); /* Further adjusted for very small screens */
+    }
+}
