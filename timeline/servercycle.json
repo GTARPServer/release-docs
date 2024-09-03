@@ -1,0 +1,23 @@
+[
+    {
+        "title": "Initial Development",
+        "content": "During this stage we worked to implement the basis and overall framework of the server.",
+        "sub_title": "August 2024"
+    },
+    {
+        "title": "Playtest 1",
+        "content": "This is where we will be testing the server with a small group of players to find bugs and gather feedback.",
+        "sub_title": "September 6th - 9th, 2024",
+        "key": "current"
+    },
+    {
+        "title": "Development Phase 2",
+        "content": "During this phase we will be working to fix bugs discovered during the playtest, as well as working on new features.",
+        "sub_title": "Starting: September 10th, 2024"
+    },
+    {
+        "title": "Playtest 2",
+        "content": "In the second playtest we will once again be bug hunting and gathering feedback but with a larger group of players.",
+        "sub_title": "TBD"
+    }
+]

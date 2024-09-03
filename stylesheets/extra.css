@@ -2,9 +2,9 @@
     height:2.4rem;
 }
 
-.md-typeset .emojione, .md-typeset .gemoji, .md-typeset .twemoji {
+/*.md-typeset .emojione, .md-typeset .gemoji, .md-typeset .twemoji {
     vertical-align: middle;
-}
+}*/
 
 [data-md-color-scheme="imaginerp"]{
     --md-primary-fg-color: #b72d3f;
@@ -94,5 +94,25 @@
 
     .announce-button {
         font-size: calc(1vw + 8px); /* Further adjusted for very small screens */
+    }
+}
+
+.server-timeline .current .nt-timeline-content {
+    padding: 10px;
+    border-bottom: 4px solid;
+    border-image-slice: 1;
+    border-image-source: linear-gradient(45deg, #f06, #4a90e2, #50e3c2, #f06);
+    animation: border-gradient 2s infinite linear;
+}
+
+@keyframes border-gradient {
+    0% {
+        border-image-source: linear-gradient(45deg, #f06, #4a90e2, #50e3c2, #f06);
+    }
+    50% {
+        border-image-source: linear-gradient(45deg, #4a90e2, #50e3c2, #f06, #f06);
+    }
+    100% {
+        border-image-source: linear-gradient(45deg, #f06, #4a90e2, #50e3c2, #f06);
     }
 }
