@@ -2,77 +2,87 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://imaginerp.com/</loc>
-         <lastmod>2024-09-03</lastmod>
+         <lastmod>2024-09-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://imaginerp.com/faq/</loc>
-         <lastmod>2024-09-03</lastmod>
+         <lastmod>2024-09-05</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://imaginerp.com/terminology-disclaimer/</loc>
+         <lastmod>2024-09-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://imaginerp.com/Getting-Started/Installing%20FiveM/</loc>
-         <lastmod>2024-09-03</lastmod>
+         <lastmod>2024-09-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://imaginerp.com/Getting-Started/Minimum%20Requirements/</loc>
-         <lastmod>2024-09-03</lastmod>
+         <lastmod>2024-09-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://imaginerp.com/Getting-Started/serverinfo/</loc>
-         <lastmod>2024-09-03</lastmod>
+         <lastmod>2024-09-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://imaginerp.com/Reference/</loc>
-         <lastmod>2024-09-03</lastmod>
+         <lastmod>2024-09-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://imaginerp.com/Reference/controls/keybinds/</loc>
-         <lastmod>2024-09-03</lastmod>
+         <loc>https://imaginerp.com/Reference/chatcommands/</loc>
+         <lastmod>2024-09-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://imaginerp.com/Reference/controls/targeting/</loc>
-         <lastmod>2024-09-03</lastmod>
+         <loc>https://imaginerp.com/Reference/keybinds/</loc>
+         <lastmod>2024-09-05</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://imaginerp.com/Reference/targeting/</loc>
+         <lastmod>2024-09-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://imaginerp.com/Troubleshooting/Client%20Issues%20Guide/</loc>
-         <lastmod>2024-09-03</lastmod>
+         <lastmod>2024-09-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://imaginerp.com/Troubleshooting/knownissues/</loc>
-         <lastmod>2024-09-03</lastmod>
+         <lastmod>2024-09-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://imaginerp.com/blog/</loc>
-         <lastmod>2024-09-03</lastmod>
+         <lastmod>2024-09-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://imaginerp.com/blog/2024/01/31/first-blog-post/</loc>
-         <lastmod>2024-09-03</lastmod>
+         <lastmod>2024-09-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://imaginerp.com/blog/archive/2024/</loc>
-         <lastmod>2024-09-03</lastmod>
+         <lastmod>2024-09-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://imaginerp.com/blog/category/hello/</loc>
-         <lastmod>2024-09-03</lastmod>
+         <lastmod>2024-09-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://imaginerp.com/blog/category/world/</loc>
-         <lastmod>2024-09-03</lastmod>
+         <lastmod>2024-09-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>

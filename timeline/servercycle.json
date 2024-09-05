@@ -18,6 +18,26 @@
     {
         "title": "Playtest 2",
         "content": "In the second playtest we will once again be bug hunting and gathering feedback but with a larger group of players.",
-        "sub_title": "TBD"
+        "sub_title": "Approx: October 2024"
+    },
+    {
+        "title": "Development Phase 3",
+        "content": "We will once again go into development for the final time to fix bugs and finalise configuration etc for the server.",
+        "sub_title": "Approx: October 2024"
+    },
+    {
+        "title": "Applications Open",
+        "content": "Applications will open in Discord to join the server permanently. Aceptance will get you into the closed beta and full release. Playtesters will receive priority treatment.",
+        "sub_title": "Approx: November 2024"
+    },
+    {
+        "title": "Beta Release",
+        "content": "In the second playtest we will once again be bug hunting and gathering feedback but with a larger group of players.",
+        "sub_title": "Approx: November 2024"
+    },
+    {
+        "title": "Full Release",
+        "content": "In the second playtest we will once again be bug hunting and gathering feedback but with a larger group of players.",
+        "sub_title": "Approx: December 2024"
     }
 ]
